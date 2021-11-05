@@ -1,0 +1,14 @@
+{
+    "present":[
+        [
+            "@babel/present-env",
+            {
+                "targets":{
+                    "node": "10"
+                }
+            }
+        ],
+        "@babel/present-react"
+    ],
+    "pligins":["@babel/plgin-proposal-class-properties"]
+}
